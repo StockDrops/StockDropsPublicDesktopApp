@@ -18,5 +18,5 @@ Also, please feel free to visit us and the rest of our community in our [Discord
 
 #### Instructions
 1. Download the latest version of the StockDrops Desktop App from our [website](https://files.stockdrops.net/releases/latest/Setup.exe) or our GitHub [mirror](https://github.com/StockDrops/StockDropsPublicDesktopApp/releases/tag/v1.1.3).
-2. Please read through the app's provided dialogue. It provides important info regarding the app's functionality. Once done, the app will guide you through the first-time setup. Before starting the setup, you will be given a chance to view the paid subscription tiers (found [here](https://my.stockdrops.net/)). When ready to proceed, click the "Ready" button.
+2. Please read through the app's provided dialogue. It provides important info regarding the app's functionality. Once done, the app will guide you through the first-time setup. Before starting the setup, you will be given a chance to view the paid subscription tiers (found [here](https://my.stockdrops.net/)). Click the "Ready" button when ready to proceed with the installation.
 3. 
