@@ -10,7 +10,7 @@ All work on the application and server hosting is funded through courteus donati
 - BTC: bc1qnvvq3ja54sc360p39smqm5r22yjq3xvzvy3hss
 - ETH: 0x0a6ecfa2e8c9ca9757c8bb0ddc833710f044665c
 
-Also, please feel free to visit us and the rest of our community in our [Discord](https://discord.com/invite/stockdrops) and on [Twitter](https://twitter.com/stock_drops).
+Also, please feel free to visit us and share your feedback in our [Discord](https://discord.com/invite/stockdrops) and on [Twitter](https://twitter.com/stock_drops).
 
 ## User Instructions
 #### Supported Operating Systems
