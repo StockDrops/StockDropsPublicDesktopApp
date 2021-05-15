@@ -10,7 +10,17 @@ All work on the application and server hosting is funded through courteus donati
 - BTC: bc1qnvvq3ja54sc360p39smqm5r22yjq3xvzvy3hss
 - ETH: 0x0a6ecfa2e8c9ca9757c8bb0ddc833710f044665c
 
-Also, please feel free to visit us and share your feedback in our [Discord](https://discord.com/invite/stockdrops) and on [Twitter](https://twitter.com/stock_drops).
+Also, please feel free to visit us and share your feedback in our [Discord](https://discord.gg/stockdrops) and on [Twitter](https://twitter.com/stock_drops).
+
+Feel free to open an issue if you are having issues or have questions not answered in here.
+
+## Why use the app?
+
+The app will provide the fastest notifications available. It is free to use, with some paid tiers in order to support its development (a developer costs about $50-$100 the hour). You get full customization of your alerts up to the SKU. And the stock will open automatically on your browser if you enable it. That means you are not slowed down by your reaction time.
+
+The app uses the notion of Cooperative Stock Crawling. We are all helping each other by checking websites for stock. You, me, everyone who has the app will check websites at a reduced rate. Usually checking a website every 5 min or more. Making it extremely hard to be detected as a bot since we are crawling at extremely slow pace locally. But the trick is that all the clients are connected through an ultra-fast low latency network, so that if any of us finds stock, then we can alert the others of said stock and we can ALL benefit. Hence the notion of Cooperative.
+
+Is this slower than just have the user check every second or quicker? No. Since we are thousand of users of the app!
 
 ## User Instructions
 #### Supported Operating Systems
@@ -44,6 +54,15 @@ And you have a Do not Disturb mode as well:
 You can also enable software rendering if you care a lot about GPU usage (minening).
 Or you can scale the fonts. Making it easier to read.
 
+### Common Failures or issues
+
+There's a few issues that we have seen that can happen. And we will address here and tell you how to address them.
+
+The first one is the URLs not opening in the browser. This is usually a registry key missing on your PC, and it's as easy to fix as to reset your default browser by going into the default apps.
+
+![image](https://user-images.githubusercontent.com/20151415/118373770-50682f80-b56d-11eb-9616-421d10d68710.png)
+And choosing your default browser again in the list.
+![image](https://user-images.githubusercontent.com/20151415/118373771-53fbb680-b56d-11eb-9dcf-509cf9cb207c.png)
 
 
 
