@@ -1,4 +1,7 @@
 # [StockDrops](https://stockdrops.net/) Desktop App v1.1.3
+
+***THIS APP IS FOR THE US ONLY!!!***
+
 This repo contains information on, guidance for, and acknowledged issues in the public release of the StockDrops Desktop Application. This app aims to provide all with a better chance at purchasing today's most popular tech (GPUs, CPUs, New Gen Consoles) through quick in-stock notifications and product page pop-ups on supported websites.
 
 It will be updated as fixes/updates are released. For now it supports Newegg, Best Buy and B&H.
