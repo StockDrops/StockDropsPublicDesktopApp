@@ -16,7 +16,7 @@ All work on the application and server hosting is funded through courteus donati
 Also, please feel free to visit us and share your feedback in our [Discord](https://discord.gg/stockdrops) and on [Twitter](https://twitter.com/stock_drops).
 
 Feel free to open an issue if you are having issues or have questions not answered in here.
-
+See this issue if you have trouble seeing the alerts: https://github.com/StockDrops/StockDropsPublicDesktopApp/issues/5
 ## Why use the app?
 
 The app will provide the fastest notifications available. It is free to use, with some paid tiers in order to support its development (a developer costs about $50-$100 the hour). You get full customization of your alerts up to the SKU. And the stock will open automatically on your browser if you enable it. That means you are not slowed down by your reaction time.
