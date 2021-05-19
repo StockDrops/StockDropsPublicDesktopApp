@@ -69,6 +69,8 @@ And you have a Do not Disturb mode as well:
 You can also enable software rendering if you care a lot about GPU usage (minening).
 Or you can scale the fonts. Making it easier to read.
 
+12. If you have any issues you can post an issue. You can also skip the setup if really stuck.
+
 ### Common Failures or issues
 
 There's a few issues that we have seen that can happen. And we will address here and tell you how to address them.
