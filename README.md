@@ -49,14 +49,21 @@ Post v1.1.5:
 ![image](https://user-images.githubusercontent.com/20151415/118751424-22f1df00-b816-11eb-9501-292ae6d8678e.png)
 
 You can even go deeper and select exactly which models/skus you want to be notified about. And select what items you want to have opened in the browser.
+
 9. You can at any time check for subs available at https://my.stockdrops.net
 10. You should be set now. Remember you can minimize the app to the tray my going into the settings:
+
 ![image](https://user-images.githubusercontent.com/20151415/118373598-a688a300-b56c-11eb-821a-4284895ca9a4.png)
+
 And you can set if you want the software to start with Windows.
+
 ![image](https://user-images.githubusercontent.com/20151415/118373610-b607ec00-b56c-11eb-9331-fb501f410f75.png)
+
 You can also choose your theme.
 And you have a Do not Disturb mode as well:
+
 ![image](https://user-images.githubusercontent.com/20151415/118373628-c5873500-b56c-11eb-89f7-31a8160a3fd2.png)
+
 11. At the bottom of the settings you can set Check for Updates, or you can open all the legal stuff about the app.
 ![image](https://user-images.githubusercontent.com/20151415/118373646-dd5eb900-b56c-11eb-812c-2c2025016caa.png)
 You can also enable software rendering if you care a lot about GPU usage (minening).
