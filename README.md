@@ -42,7 +42,12 @@ Is this slower than just have the user check every second or quicker? No. Since 
 ![image](https://user-images.githubusercontent.com/20151415/118373535-4c87dd80-b56c-11eb-958a-fa5a0c4164da.png)
 In here you can customize your alerts.
 You can select what products to enable, and which ones to disable completely. Your are the master of these settings.
+
+Pre v1.1.5:
 ![image](https://user-images.githubusercontent.com/20151415/118373555-6aedd900-b56c-11eb-99d3-64f360f74119.png)
+Post v1.1.5:
+![image](https://user-images.githubusercontent.com/20151415/118751424-22f1df00-b816-11eb-9501-292ae6d8678e.png)
+
 You can even go deeper and select exactly which models/skus you want to be notified about. And select what items you want to have opened in the browser.
 9. You can at any time check for subs available at https://my.stockdrops.net
 10. You should be set now. Remember you can minimize the app to the tray my going into the settings:
