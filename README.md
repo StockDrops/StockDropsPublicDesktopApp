@@ -1,4 +1,4 @@
-# [StockDrops](https://stockdrops.net/) Desktop App v1.2.4
+# [StockDrops](https://stockdrops.net/) Desktop App v1.3.0
 
 ***THIS APP IS FOR THE US ONLY!!!***
 
