@@ -25,6 +25,12 @@ The app uses the notion of Cooperative Stock Crawling. We are all helping each o
 
 Is this slower than just have the user check every second or quicker? No. Since we are thousand of users of the app!
 
+The app is basically me trying to address all the annoyances of the discord. Discord is amazing as a chat platform but not great for notifications because of the limitations in roles. We cannot create a role for every aib. We would easily surpass the limit. But with the app, we put you basically in control. it's an ambitious project because well it is. But the idea is to give you full customization.
+Say you only want to be notified about the asus strix 3090, well you select only that card on the app, and you will only be notified for that card.
+But like OutSmoke said, there's more. With the gold we are introducing automation in the checkout. We are trying to achieve what 300+ dollar bots do with 6 a month. Give you full autocheckout for amazon alerts from adding to cart to placing the order for you. It's still in beta but a few lucky people have already gotten a card thanks to the beta. You can see #app-testimonials I got someone who got an item to post it there.
+
+Finally automation is not limited to the gold tier. It does something that you cannot do here. Even free plans have this. You can set it to automatically open the links for you saving you from yourself and your inherently slow reaction time.
+
 ## User Instructions
 #### Supported Operating Systems
 - Windows 10 32/64-bit
