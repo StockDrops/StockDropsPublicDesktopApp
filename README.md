@@ -1,4 +1,6 @@
-# [StockDrops](https://stockdrops.net/) Desktop App v2.6.4
+# [StockDrops](https://stockdrops.net/) Desktop App v2.6.8
+
+***UPDATE TO V2.6.8, previous versions had a bug that will make receiving notifications impossible!***
 
 ***THIS APP IS FOR THE US ONLY!!!***
 
