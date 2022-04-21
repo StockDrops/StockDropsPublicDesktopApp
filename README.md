@@ -1,3 +1,5 @@
+# This APP has being deprecated in favor of https://github.com/stockdrops/openstockapp
+
 # [StockDrops](https://stockdrops.net/) Desktop App v2.6.8
 
 ***UPDATE TO V2.6.8, previous versions had a bug that will make receiving notifications impossible!***
