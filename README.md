@@ -1,4 +1,4 @@
-# This APP has being deprecated in favor of https://github.com/stockdrops/openstockapp
+# This APP has being deprecated in favor of https://github.com/stockdrops/openstockapp which is targeting Android/Windows/iOS/MacOS
 
 # [StockDrops](https://stockdrops.net/) Desktop App v2.6.8
 
