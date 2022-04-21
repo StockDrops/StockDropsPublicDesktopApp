@@ -1,5 +1,15 @@
 # This APP has being deprecated in favor of [StockDrops OpenStockApp](https://github.com/stockdrops/openstockapp) which is targeting Android/Windows/iOS/MacOS and works in the EU and US.
 
+
+
+
+
+
+
+Old docs:
+
+
+
 # [StockDrops](https://stockdrops.net/) Desktop App v2.6.8
 
 ***UPDATE TO V2.6.8, previous versions had a bug that will make receiving notifications impossible!***
